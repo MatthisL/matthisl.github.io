@@ -105,7 +105,7 @@ That project was my first dive into the world of game development, and I was hoo
 Here is a cool mod I did to handle interest points on your map
 </div>
 
-I ended opening an Altis Life Roleplay server with a group of friend I met on a server and with which I was roleplaying 🤩 I was doing all the development/programming and maintenance of the server (I rememeber we reached 100+ players at a time!).
+I ended opening an Altis Life Roleplay server with a group of friend I met on a server and with which I was roleplaying 🤩 I was doing all the development/programming and maintenance of the server (I remember we reached 100+ players at a time!).
 {: .text-justify}
 
 I even got curious about cheat development, all driven by a desire to understand how games worked and how to go where we do not have the right to. 😈 
