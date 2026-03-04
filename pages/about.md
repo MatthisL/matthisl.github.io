@@ -124,7 +124,7 @@ But my journey wasn’t a straight line. For a long time, I didn’t really know
 
 That moment came when I joined **Epitech**, a school where everything is project-based: no lectures, no professors giving you the answers. You’re expected to figure things out on your own, collaborate with your friends' promotion, and become self-reliant.
 
-<img src="{{ '/assets/img/about/epitech-laval.jpg' | relative_url }}">
+<img src="{{ '/assets/img/about/epitech-laval.png' | relative_url }}">
 *My group and I, for our first profesionnal project in our third year, at Laval Virtual, 2018.*
 {: .text-center .text-muted}
 
