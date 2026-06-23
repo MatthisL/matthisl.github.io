@@ -27,9 +27,17 @@
   }
 }
 
-.navbar-brand {
+.navbar-brand 
+{
   margin-bottom: -14px;
-  &::after {
+  
+  &::after 
+  {
     margin-top: -0.25em;
+  }
+
+  .navbar-logo 
+  {
+    border-radius: 4px;
   }
 }
